@@ -26,13 +26,8 @@ To get started with the Python Home Budget App, follow these steps:
    cd python-home-budget-app
 
 3. Install any necessary dependencies.
-   # If using pip
-   ```bash
+    ```bash
    pip install -r requirements.txt
-
-   # If using pipenv
-   ```bash
-   pipenv install
 
 4. Run the application.
    ```bash
