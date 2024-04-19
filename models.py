@@ -1,12 +1,14 @@
 # What is expense
-# 1. Name of the person
-# 2. Date
-# 3. Amount
-# 4. Balance
-# 5. Category
-# 7. Authorize by
-# 8. Justification
-# 9. Due Date
+# 1. First name of the person
+# 2. Middle name of the person
+# 3. Last of the the person 
+# 4. Date (number)
+# 5. Amount (number)
+# 6. Balance
+# 7. Category
+# 8. Authorize by
+# 9. Justification
+# 10. Due Date
 
 
 # Stories
