@@ -13,6 +13,13 @@ The Python Home Budget App is a beginner-friendly project aimed at those who are
 - **Simple Interface:** Easy-to-use command-line interface suitable for beginners.
 - **Customization:** Add your own categories and customize the app to fit your needs.
 
+
+Team member
+1. CN
+2. KM
+3. SA
+4. BB
+
 ## Getting Started
 
 To get started with the Python Home Budget App, follow these steps:
