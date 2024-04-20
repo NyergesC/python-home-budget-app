@@ -9,6 +9,12 @@
 # 8. Authorize by
 # 9. Justification
 # 10. Due Date
+# 11. Currency (dollar)(euro) (pound)
+# 12 Summary report
+# 13 Send the summary report
+# 14 Picture upload
+# 15 Nofication
+
 
 
 # Stories
@@ -17,7 +23,10 @@
 # I should be able to delete an expense
 # We should be able to login
 # A new user should be able to sign up
+# I should be able activate two factor verification
 # Set a spending threshold
 # I should be able to enter the income (paycheck, additional income)
 # I should be able to edit an income
-
+# I should be able to generate a summary report
+# I should be able to upload pictures
+# I should get notification
