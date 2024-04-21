@@ -15,10 +15,10 @@ The Python Home Budget App is a beginner-friendly project aimed at those who are
 
 
 Team member
-1. CN
-2. KM
-3. SA
-4. BB
+1. CN, a teacher
+2. KM, a teacher
+3. SA, a student
+4. BB, a student
 
 ## Getting Started
 
