@@ -29,7 +29,7 @@
 # I should be able to generate a summary report
 # I should be able to upload pictures
 # I should get notification
-# I should get set the limitations
+# I should be able to set the limitations
 
 
 # Features:
