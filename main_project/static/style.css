@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+    background: transparent;
+    font-family: inherit;
+  }
+  a{
+    text-decoration: none;
+  }
+  a img {
+    border: none;
+  }
+
+  button,
+  a {
+    cursor: pointer;
+    color: inherit;
+  }
+
+  textarea {
+    resize: none;
+  }
+
+  button,
+  textarea,
+  select {
+    appearance: none !important;
+    border-radius: 0;
+  }
+
+  /* -------------CSS RESET IS OVER------------- */
+
+
+  body{
+    font-family: 'Roboto', sans-serif;
+    background: rgb(44,62,80);
+    background-image: linear-gradient(55deg,
+    hsl(0deg 0% 19%) 13%,
+    hsl(289deg 23% 24%) 56%,
+    hsl(287deg 42% 28%) 71%,
+    hsl(287deg 62% 31%) 80%,
+    hsl(286deg 79% 34%) 87%,
+    hsl(283deg 84% 39%) 91%,
+    hsl(281deg 88% 44%) 95%,
+    hsl(278deg 89% 50%) 99%
+);
+  }
+
+#root {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    height: 500px;
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 25px rgba(0 0 0 / 20%);
+    backdrop-filter: blur(10px);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 100%;
+}
+
+input[type="text"],
+input[type="number"],
+select,
+input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #9D0EEF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
