@@ -5,7 +5,7 @@ from django.shortcuts import render
 
 
 def index(request):
-    return HttpResponse(
-        "<h1>Welcome to Balden's Corner!</h1> <br>"
-        "Happy Coding!!"
-    )
+    return render(request, "baldens_corner/index.html")
+
+
+
