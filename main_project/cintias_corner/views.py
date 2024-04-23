@@ -5,7 +5,4 @@ from django.shortcuts import render
 
 
 def index(request):
-    return HttpResponse(
-        "<h1>Welcome to Cintias Corner!</h1> <br>"
-        "Happy Coding!!"
-    )
+    return render(request, "cintias_corner/index.html")
