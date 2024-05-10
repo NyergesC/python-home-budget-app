@@ -7,4 +7,10 @@
 a.	Range of 2 to 100 in steps of 2. For example: 2, 4, 6,….100
 b.	Range from 1 to 4096  where subsequent number is doubles the previous. For example: 1,2,4,8, 16, …., 4096
 6.	Commit and push this excel file. Name it <name>_data.xlsx. For instance, cintia_data.css
+7. Create another excel sheet with the following columns
+    * x: range from 1 to 20 in steps of 1.5
+    * y: with the formular x * x
+    * z: with the formular xˆ2
+    * name it formulas.xlsx
+    * commit and push the updates
 
